@@ -13,11 +13,3 @@ Farmers, especially in rural areas, lack access to real-time soil and climate da
 ## 💡 Our Solution
 EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humidity sensors) to collect live field data. The data is visualized on a user-friendly mobile app (built using FlutterFlow) to help farmers make quick, informed decisions.
 
----
-
-## 🔧 Tech Stack
-- 📱 **FlutterFlow** – Mobile App UI
-- 🔥 **Firebase** – Realtime Database
-- 🧠 **ESP32 + Sensors** – Temperature, Humidity, Soil Moisture
-- ☀️ **Solar Power** – Optional sustainable hardware power
-- 🌐 **GitHub** – Project Repository
