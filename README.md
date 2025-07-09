@@ -80,5 +80,10 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 
 ---
 
+## 📊 Powerpoint presentation
+-[Powerpoint presentation](https://raw.githubusercontent.com/Champia-MN/EcoFarmX-Hackorbit25/main/Hack%20Orbit.pptx%20(2)%20(1).pptx)
+
+---
+
 ## 🔗 GitHub link
 -[GitHub link](https://github.com/Champia-MN/EcoFarmX-Hackorbit25)
