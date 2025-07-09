@@ -72,8 +72,12 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 
 ---
 
-## 🐦‍🔥 Firebase
-- ## 🔧 Firebase Setup
+ ## 🔧 Firebase Setup
 - Enable Authentication (email/password)
 - Set up Realtime Database / Firestore
 - Add your Firebase config to `firebase_options.dart`
+
+---
+
+## 🔗 GitHub link
+-[GitHub link](https://github.com/Champia-MN/EcoFarmX-Hackorbit25)
