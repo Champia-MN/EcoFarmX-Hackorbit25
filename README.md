@@ -62,6 +62,7 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 
 ## 📝 Submission Details
 - 👤 **Participant**: Champia MN
+- 👤 **Participant**: Vanitha S
 - 🧠 **Project Name**: EcoFarmX
 - 🏆 **Event**: HackOrbit National Hackathon 2025
 
