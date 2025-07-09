@@ -43,3 +43,11 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 
 ### 6️⃣ Settings page
 ![Settings page](https://raw.githubusercontent.com/Champia-MN/EcoFarmX-Hackorbit25/main/Settings_page.jpg)
+---
+
+## 🧠 Innovation Highlights
+- Live data monitoring from farm to phone 📲
+- Solar-powered hardware for eco-sustainability ☀️
+- Scalable for small and large farms 🌾
+- Easy-to-use interface for non-tech farmers 👨‍🌾
+
