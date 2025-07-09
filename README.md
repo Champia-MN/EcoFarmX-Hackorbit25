@@ -51,3 +51,16 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 - Scalable for small and large farms 🌾
 - Easy-to-use interface for non-tech farmers 👨‍🌾
 
+---
+
+## 🌱 Environmental Impact
+- Reduces excessive water usage by alerting moisture status
+- Promotes sustainable farming practices
+- Increases yield while conserving natural resources
+
+---
+
+## 📝 Submission Details
+- 👤 **Participant**: Champia MN
+- 🧠 **Project Name**: EcoFarmX
+- 🏆 **Event**: HackOrbit National Hackathon 2025
